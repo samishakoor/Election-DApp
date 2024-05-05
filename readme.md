@@ -1,11 +1,11 @@
-# CryptoCourier
+# Election DApp
 
-CryptoCourier is a courier management app. It allows the user to add couriers for some price, view them and delete them.
+A Blockchain-based Election Dapp leveraging Solidity smart contracts and MetaMask crypto-wallet for secure and transparent voting processes.
 
 
 ## Technology Used
 
-CryptoCourier is built using the following technologies:
+Election DApp is built using the following technologies:
 
 - **Smart Contracts**: Solidity
 - **Framework**: Truffle and vanilla JS
@@ -23,4 +23,4 @@ To run CryptoCourier on your local machine, follow these steps:
 6. Deploy the smart contracts: `truffle migrate`
 7. Start the application: `npm run dev`
 
-That's it! You should now be able to use CryptoCourier.
+That's it! You should now be able to use Election DApp.
