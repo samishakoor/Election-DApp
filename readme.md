@@ -13,9 +13,9 @@ Election DApp is built using the following technologies:
 
 ## Running the Application
 
-To run CryptoCourier on your local machine, follow these steps:
+To run Election DApp on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/hammadmustafa2003/CryptoCourier`
+1. Clone the repository: `git clone https://github.com/samishakoor/Election-DApp.git`
 2. Install the required dependencies: `npm install`
 3. Set up the Ganache and launch a local chain.
 4. Set up the Metamask and connect it to the local chain.
